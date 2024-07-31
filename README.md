@@ -47,7 +47,7 @@ CUDA_VISIBLE_DEVICES=0 python eval_rcnn.py --cfg_file cfgs/xin_LI_Fusion_with_at
 
 # Acknowledgement
 
-The code is based onEPNet.([happinesslz/EPNet: EPNet: Enhancing Point Features with Image Semantics for 3D Object Detection(ECCV 2020) (github.com)](https://github.com/happinesslz/EPNet). )
+The code is based on EPNet.([happinesslz/EPNet: EPNet: Enhancing Point Features with Image Semantics for 3D Object Detection(ECCV 2020) (github.com)](https://github.com/happinesslz/EPNet). )
 
 # Citation
 
